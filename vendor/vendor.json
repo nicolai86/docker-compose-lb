@@ -1,0 +1,115 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "URUPsZwnYMRm1k2X9qukr3AWU/g=",
+			"path": "github.com/fsouza/go-dockerclient",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "7CvOHJK9x8GlFZmYe0nXMTz9teg=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/Sirupsen/logrus",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "608Y3rj23jTnrZJjGaFRK+s5IcU=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/opts",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "OECIN3MgL6Q/bup7ZbPYjAbPLZs=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/archive",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "dEFpUEhnmCDWorKpavPHVTkijYk=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/fileutils",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "gqNisQFLlzSB6GxBq4PkDbnNayg=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/homedir",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "B5n9LVGXOsgyLjgpG49/z33DQr8=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/idtools",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "Wufcejxg4ay719EwD4EJAh0HCdk=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ioutils",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "9XQOQ2MyLt5gfTENYwo0Iuxaeoo=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/longpath",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "xRNl3MgjAJmN84KE4MzmVyGoe9M=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/pools",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "l63UQekgrt3jXEuq0rqsaLx5onI=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/promise",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "E4MW4qF8yysAY8Hi9UqoLY9+7ew=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/stdcopy",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "Tso+waTvFPwizhiPoW+JwQ7AmPw=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/system",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "8KgdGTS+WOEtfwqxp2A0udV+lJU=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/go-units",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "FRtY4g9kxucTQMy1cSkBQfCVd1U=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/hashicorp/go-cleanhttp",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "VvGdEczw0JVJjvfY1AVWV/8xx00=",
+			"path": "github.com/fsouza/go-dockerclient/external/github.com/opencontainers/runc/libcontainer/user",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "v9n1SOhjaR6eJd122dUWOfBDmN4=",
+			"path": "github.com/fsouza/go-dockerclient/external/golang.org/x/net/context",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		},
+		{
+			"checksumSHA1": "hugdbffSP0G67FyJUhGvu9O0WmM=",
+			"path": "github.com/fsouza/go-dockerclient/external/golang.org/x/sys/unix",
+			"revision": "4ac6ea1aa6ee9be15e66aa694c4b3f909df239f4",
+			"revisionTime": "2016-03-28T22:10:11Z"
+		}
+	],
+	"rootPath": "github.com/nicolai86/docker-compose-lb"
+}
